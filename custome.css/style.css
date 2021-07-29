@@ -1,0 +1,55 @@
+.col-lg-4 img{
+    width: 280px;
+    height: 243px;
+}
+.img-fluid {
+ filter: grayscale(100);
+}
+.ducati{
+    width: 400px;
+    height: 579px;
+}
+.Scooters{
+    width: 400px;
+    height: 579px;
+}
+.CBR500R{
+    width: 400px;
+    height: 579px;
+}
+.client-pic  {
+    width: 149px;
+    height: 149px;
+    margin-left:80px;
+    margin-top: 40px;
+}
+.card{
+    width: 322px;
+    height: 478px;
+    margin-left: 30px;
+}
+.star-icon{
+    margin-left:108px; 
+    
+}
+.extra{
+    width: 1125px;
+    height: 495px;
+}
+.img-fluid-1{
+    width: 430px;
+    height: 423px;
+}
+.color{
+    background-color: #264653;
+}
+.btn{
+    background-color: #E76F51;
+    padding: 10px;
+    width: 125px;
+    height: 40px;
+    border-radius: 3px;
+}
+.sp-color{
+    color: #E76F51;
+}
